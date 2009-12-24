@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;assertNoPattern(${1:\$regex}, ${2:\$result});
+</string>
+	<key>name</key>
+	<string>assertNoPattern</string>
+	<key>scope</key>
+	<string>source.php.cake</string>
+	<key>tabTrigger</key>
+	<string>ass</string>
+	<key>uuid</key>
+	<string>6EB6DFF6-599B-4A52-8F2D-BE28E7BC6B8A</string>
+</dict>
+</plist>

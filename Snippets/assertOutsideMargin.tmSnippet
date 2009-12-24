@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>\$this-&gt;assertOutsideMargin(${1:\$x}, ${2:\$y}, ${3:\$m});
+</string>
+	<key>name</key>
+	<string>assertOutsideMargin</string>
+	<key>scope</key>
+	<string>source.php.cake</string>
+	<key>tabTrigger</key>
+	<string>ass</string>
+	<key>uuid</key>
+	<string>F08F4A4B-0DF1-4BAD-8F6A-E127FF23F115</string>
+</dict>
+</plist>
